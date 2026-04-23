@@ -98,6 +98,8 @@ This project was built entirely using **AI prompt-based development**:
 ## 📸 Screenshots
 <img width="1320" height="2868" alt="Simulator Screenshot - iPhone 17 Pro Max - 2026-04-22 at 20 50 19" src="https://github.com/user-attachments/assets/98dbcc8d-2cbf-40c9-9969-936ba33503b6" />
 
+————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
  <img width="1320" height="2868" alt="Simulator Screenshot - iPhone 17 Pro Max - 2026-04-22 at 20 49 12" src="https://github.com/user-attachments/assets/396ce439-103f-4f73-b4e8-91ec1a9097df" />
 
 ---
