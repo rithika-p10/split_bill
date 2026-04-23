@@ -104,13 +104,6 @@ This project was built entirely using **AI prompt-based development**:
 
 ---
 
-## ⚠️ Limitations
-
-- No data persistence  
-- Minimal input validation  
-- No API used (logic handled in ViewModel)
-
----
 ## 👩‍💻 Author
 
 **Rithika Liz Bobby**
